@@ -2,7 +2,7 @@
 
 ## Full Stack Developer | (Öğrenci)
 
-<font color="pink">Bir fincan kahve :coffee: ve bir sürü `< code />` </font>
+<font color="pink">Bolca kahve :coffee: ve bir sürü `< code />` </font>
 
 ## Bana Ulaşın
 
