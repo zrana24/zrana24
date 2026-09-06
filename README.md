@@ -21,7 +21,6 @@ Selam! Ben Zeynep Rana. Yenilikçi ve kullanıcı odaklı mobil uygulamalar geli
 
 - 🔭 **Odak Noktam:** Flutter & Firebase ile modern mobil uygulamalar.
 - 💡 **İlgi Alanlarım:** UI/UX Tasarımı, Clean Architecture, Cross-platform teknolojileri.
-- 📚 **Öğrenmeye Devam Ediyorum:** Yazılım mimarileri ve yeni backend sistemleri.
 
 <br>
 
